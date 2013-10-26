@@ -7,7 +7,7 @@ jnlua-android-testapp - this is a simple example app that runs a script using th
 Notes
 =====
 
-This release is based on jnlua-0.9.6 and lua 5.2.2 sources
+This release is based on jnlua-0.9.6 and lua 5.1.5 sources
 
 1. Lua sources were modified so that output will go to android log instead
    of stdout.
